@@ -1,5 +1,7 @@
 # chap3pursue
 
+From the textbook PHP and MySQL for Dynamic Web Sites Fifth Edition by Larry Ullman
+
 Complete the following from the chapter's Pursue section:
 
 Create a new HTML template for the pages in this chapter. Use that new template as the basis for new header and footer files. By doing so, you should be able to change the look of the entire site without modifying any of the PHP scripts.  Use the Pacific Trails Case Study site (from Chapter 2); modify the four (4) html pages to insert the header and footer sections auto-magically.  
