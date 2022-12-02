@@ -3,7 +3,16 @@
 Complete the following from the chapter's Pursue section:
 
 Create a new HTML template for the pages in this chapter. Use that new template as the basis for new header and footer files. By doing so, you should be able to change the look of the entire site without modifying any of the PHP scripts.  Use the Pacific Trails Case Study site (from Chapter 2); modify the four (4) html pages to insert the header and footer sections auto-magically.  
+
 Submission: Submit a zip file containing your working Pacific Trails Case Study site and four (4) .png screenshots (1 of each page) of your working site.
+
+![p](https://github.com/bell-kevin/chap3pursue/blob/main/chap3pursue/1.PNG)
+
+![p](https://github.com/bell-kevin/chap3pursue/blob/main/chap3pursue/2.PNG)
+
+![p](https://github.com/bell-kevin/chap3pursue/blob/main/chap3pursue/3.PNG)
+
+![p](https://github.com/bell-kevin/chap3pursue/blob/main/chap3pursue/4.PNG)
 
 
 == We're Using GitHub Under Protest ==
