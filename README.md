@@ -1,6 +1,8 @@
 # chap3pursue
 
-From the textbook PHP and MySQL for Dynamic Web Sites Fifth Edition by Larry Ullman
+From the textbook 
+
+PHP and MySQL for Dynamic Web Sites Fifth Edition by Larry Ullman
 
 Complete the following from the chapter's Pursue section:
 
